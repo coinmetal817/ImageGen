@@ -18,6 +18,6 @@ This is how it looks when generating an image.
 
 <img width="300" height="600" alt="GUI image generating" src="https://github.com/user-attachments/assets/bcdad6e6-20c1-4d39-9f6f-1875f24fa76b" />
 
-This is how it looks when generating an image is complete.
+This is how it looks when generated image is complete.
 
 <img width="300" height="600" alt="GUI image complete" src="https://github.com/user-attachments/assets/97b48668-acda-4a6f-b916-c808d652edc5" />
